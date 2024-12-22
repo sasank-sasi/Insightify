@@ -1,0 +1,131 @@
+[
+    {
+        "source": "kaggle",
+        "url": "https://www.kaggle.com/search?q=Automated+Financial+Reporting+software+dataset",
+        "relevance_score": 0.8,
+        "type": "dataset"
+    },
+    {
+        "source": "kaggle",
+        "url": "https://www.kaggle.com/search?q=Intelligent+Chatbots+for+Client+Support+software+dataset",
+        "relevance_score": 0.8,
+        "type": "dataset"
+    },
+    {
+        "source": "kaggle",
+        "url": "https://www.kaggle.com/search?q=Predictive+Maintenance+for+Audit+and+Assurance+software+dataset",
+        "relevance_score": 0.8,
+        "type": "dataset"
+    },
+    {
+        "source": "kaggle",
+        "url": "https://www.kaggle.com/search?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+dataset",
+        "relevance_score": 0.8,
+        "type": "dataset"
+    },
+    {
+        "source": "kaggle",
+        "url": "https://www.kaggle.com/search?q=Data-Driven+Talent+Acquisition+and+Development+software+dataset",
+        "relevance_score": 0.8,
+        "type": "dataset"
+    },
+    {
+        "error": "Paper search failed: 'EnhancedResourceAssetAgent' object has no attribute '_search_arxiv'"
+    },
+    {
+        "source": "github",
+        "url": "https://github.com/search?q=Automated+Financial+Reporting+software/natural-language-processing-for-compliance-risk-assessment",
+        "type": "implementation",
+        "relevance_score": 0.7
+    },
+    {
+        "source": "mckinsey",
+        "url": "https://www.mckinsey.com/search?q=Automated+Financial+Reporting+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "mckinsey",
+        "url": "https://www.mckinsey.com/search?q=Intelligent+Chatbots+for+Client+Support+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "mckinsey",
+        "url": "https://www.mckinsey.com/search?q=Predictive+Maintenance+for+Audit+and+Assurance+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "mckinsey",
+        "url": "https://www.mckinsey.com/search?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "mckinsey",
+        "url": "https://www.mckinsey.com/search?q=Data-Driven+Talent+Acquisition+and+Development+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "deloitte",
+        "url": "https://www2.deloitte.com/search?q=Automated+Financial+Reporting+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.85
+    },
+    {
+        "source": "deloitte",
+        "url": "https://www2.deloitte.com/search?q=Intelligent+Chatbots+for+Client+Support+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.85
+    },
+    {
+        "source": "deloitte",
+        "url": "https://www2.deloitte.com/search?q=Predictive+Maintenance+for+Audit+and+Assurance+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.85
+    },
+    {
+        "source": "deloitte",
+        "url": "https://www2.deloitte.com/search?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.85
+    },
+    {
+        "source": "deloitte",
+        "url": "https://www2.deloitte.com/search?q=Data-Driven+Talent+Acquisition+and+Development+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.85
+    },
+    {
+        "source": "gartner",
+        "url": "https://www.gartner.com/search?q=Automated+Financial+Reporting+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "gartner",
+        "url": "https://www.gartner.com/search?q=Intelligent+Chatbots+for+Client+Support+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "gartner",
+        "url": "https://www.gartner.com/search?q=Predictive+Maintenance+for+Audit+and+Assurance+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "gartner",
+        "url": "https://www.gartner.com/search?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    },
+    {
+        "source": "gartner",
+        "url": "https://www.gartner.com/search?q=Data-Driven+Talent+Acquisition+and+Development+software+AI+implementation?q=Natural+Language+Processing+for+Compliance+Risk+Assessment+software+AI+implementation",
+        "type": "report",
+        "relevance_score": 0.9
+    }
+]

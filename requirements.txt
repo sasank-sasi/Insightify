@@ -1,0 +1,31 @@
+# requirements.txt
+
+# Core Dependencies
+tavily-python==0.3.0
+groq==0.3.0
+beautifulsoup4==4.12.0
+reportlab==4.0.4
+python-dotenv==1.0.0
+requests==2.31.0
+langchain-core==0.1.17
+
+# LLM & AI
+langchain==0.1.0
+langchain-community==0.0.10
+
+# Web Scraping
+lxml==4.9.3
+html5lib==1.1
+
+# PDF Generation
+Pillow==10.2.0
+
+# Development
+black==24.2.0
+mypy==1.8.0
+pytest==8.0.0
+pytest-cov==4.1.0
+
+# Type Hints
+typing-extensions
+types-requests
