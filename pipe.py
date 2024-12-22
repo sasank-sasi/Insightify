@@ -23,11 +23,17 @@ class AIImplementationOrchestrator:
         if not self.tavily_api_key or not self.groq_api_key:
             raise ValueError("Missing API keys. Please check your .env file")
         
-        # Output paths
-        self.output_dir = "output"
-        self.proposals_dir = "proposals"
-        os.makedirs(self.output_dir, exist_ok=True)
-        os.makedirs(self.proposals_dir, exist_ok=True)
+        # Base directory is the project root
+        self.base_dir = os.path.dirname(os.path.abspath(__file__))
+        
+        # Output paths relative to base directory
+        self.output_dir = os.path.join(self.base_dir, "output")
+        self.proposals_dir = os.path.join(self.base_dir, "proposals")
+        
+        # Create directories if they don't exist
+        for directory in [self.output_dir, self.proposals_dir]:
+            if not os.path.exists(directory):
+                os.makedirs(directory)
 
         # In pipe.py
     def run(self):

@@ -1,51 +1,47 @@
 {
-    "research_results": {
-        "query": "What is Deloitte, and what are their main offerings and focus areas?",
-        "follow_up_questions": null,
-        "answer": null,
-        "images": [],
-        "results": [
-            {
-                "title": "What Is Deloitte? - Webopedia",
-                "url": "https://www.webopedia.com/definitions/deloitte/",
-                "content": "What Is Deloitte? Deloitte is a professional services network that focuses on auditing, consulting, advisory, and tax services. Over the years, the company has expanded into new service territory, now offering additional tech-focused services like AI support, cyber risk management, and cloud migration. Deloitte: A brief history",
-                "score": 0.8452414,
-                "raw_content": null
-            },
-            {
-                "title": "What We Do | Deloitte",
-                "url": "https://www.deloitte.com/global/en/what-we-do.html",
-                "content": "We provide audit and assurance, consulting, tax and related services, but we're more than our offerings. We exist to make an impact that matters. Whether we're focusing on equality, serving the public interest or leading the digital transformation, we're committed to growing opportunity for people and societies around the world.Working alongside our clients, we help them realize their",
-                "score": 0.6334335,
-                "raw_content": null
-            },
-            {
-                "title": "About Consulting services | Deloitte US - Deloitte United States",
-                "url": "https://www2.deloitte.com/us/en/pages/consulting/solutions/about-deloitte-consulting-services.html",
-                "content": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (\"DTTL\"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as \"Deloitte Global\") does not provide services to clients.",
-                "score": 0.5125224,
-                "raw_content": null
-            },
-            {
-                "title": "About Deloitte | Our global network of member firms",
-                "url": "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/about-deloitte.html",
-                "content": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (\"DTTL\"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as \"Deloitte Global\") does not provide services to clients.",
-                "score": 0.5125224,
-                "raw_content": null
-            },
-            {
-                "title": "About us | Deloitte US - Deloitte United States",
-                "url": "https://www2.deloitte.com/us/en/footerlinks/about-us-deloitte.html",
-                "content": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (\"DTTL\"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as \"Deloitte Global\") does not provide services to clients.",
-                "score": 0.5125224,
-                "raw_content": null
-            }
-        ],
-        "response_time": 2.09
-    },
-    "scraped_data": {
-        "vision": "Learn about risks and opportunities boards of directors could face in the coming year as we look back for in this edition of On the Board\u2019s Agenda.",
-        "product_offerings": "Commercial, products, and operations transformation for the future of your industry.",
-        "focus_areas": "Information not found"
-    }
+    "query": "What is Deloitte, and what are their main offerings and focus areas?",
+    "follow_up_questions": null,
+    "answer": null,
+    "images": [],
+    "results": [
+        {
+            "title": "Deloitte SWOT Analysis : Strengths, Weaknesses, Opportunities, and Threats",
+            "url": "https://thebigmarketing.com/deloitte-swot-analysis/",
+            "content": "Deloitte stands as a prominent figure in the professional services network, renowned for its broad array of offerings in audit, consulting, financial advisory, risk management, and tax services. Founded in 1845 by William Welch Deloitte in London, this firm has evolved significantly throughout its company history, establishing a strong market",
+            "score": 0.74251556,
+            "raw_content": null
+        },
+        {
+            "title": "What We Do | Deloitte",
+            "url": "https://www.deloitte.com/global/en/what-we-do.html",
+            "content": "We provide audit and assurance, consulting, tax and related services, but we're more than our offerings. We exist to make an impact that matters. Whether we're focusing on equality, serving the public interest or leading the digital transformation, we're committed to growing opportunity for people and societies around the world.Working alongside our clients, we help them realize their",
+            "score": 0.6334335,
+            "raw_content": null
+        },
+        {
+            "title": "Our Purpose & Values | Deloitte",
+            "url": "https://www.deloitte.com/global/en/about/story/purpose-values.html",
+            "content": "At Deloitte, our purpose is to make an impact that matters. It leads us to focus on accelerating equity, sustainability and shared prosperity through all that we do: because that's the type of affect that matters to us and for our clients, our people and our communities.",
+            "score": 0.560566,
+            "raw_content": null
+        },
+        {
+            "title": "About Consulting services | Deloitte US - Deloitte United States",
+            "url": "https://www2.deloitte.com/us/en/pages/consulting/solutions/about-deloitte-consulting-services.html",
+            "content": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (\"DTTL\"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as \"Deloitte Global\") does not provide services to clients.",
+            "score": 0.5125224,
+            "raw_content": null
+        },
+        {
+            "title": "About Deloitte | Our global network of member firms",
+            "url": "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/about-deloitte.html",
+            "content": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (\"DTTL\"), its network of member firms, and their related entities. DTTL and each of its member firms are legally separate and independent entities. DTTL (also referred to as \"Deloitte Global\") does not provide services to clients.",
+            "score": 0.5125224,
+            "raw_content": null
+        }
+    ],
+    "response_time": 1.84,
+    "vision": "Learn about risks and opportunities boards of directors could face in the coming year as we look back for in this edition of On the Board\u2019s Agenda.",
+    "product_offerings": "Commercial, products, and operations transformation for the future of your industry.",
+    "focus_areas": "Information not found"
 }
